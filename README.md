@@ -1,4 +1,4 @@
-I made this API using flask, tkinter, psycopg2, postgresql, and just now played with flasksmorest and changed it from what it was before to a blueprint.
+I made this app using flask, tkinter, psycopg2, postgresql, and just now played with flasksmorest and changed it from what it was before to a blueprint.
 
 How to use it:
 
